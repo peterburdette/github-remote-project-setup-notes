@@ -1,0 +1,14 @@
+-------------------------------------------------------
+| HOW TO SETUP A NEW PROJECT IN GITHUB WITHIN VS CODE |
+-------------------------------------------------------
+
+All commands are executed in the terminal within the project folder
+
+1. git init
+2. git remote add origin https://github.com/USERNAME/REPO-NAME.git
+3. git add .
+4. git commit -m 'first commit'
+5. git push -u origin main (GitHub will use 'main' or 'master' as the default branch)
+    - might need to try the following ways:
+    -- git push -f origin main
+    -- git push --set-upstream origin main
