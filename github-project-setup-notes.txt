@@ -2,7 +2,7 @@
 | HOW TO SETUP A NEW PROJECT IN GITHUB WITHIN VS CODE |
 -------------------------------------------------------
 
-All commands are executed in the terminal within the project folder
+All commands are executed in the terminal within the project folder.
 
 1. git init
 2. git remote add origin https://github.com/USERNAME/REPO-NAME.git
