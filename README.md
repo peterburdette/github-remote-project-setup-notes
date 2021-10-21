@@ -1,6 +1,6 @@
 # How to Setup a New Project in GitHub within VS Code
 
-All commands are executed in the terminal within the project foler
+All commands are executed in the terminal within the project foler.
 
 ### Initialize the connection:
 ```
